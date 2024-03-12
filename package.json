@@ -12,5 +12,10 @@
   "license": "ISC",
   "devDependencies": {
     "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "@fast-csv/parse": "^5.0.0",
+    "dotenv": "^16.4.5",
+    "firebase": "^10.8.1"
   }
 }
